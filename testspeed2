@@ -695,7 +695,7 @@
 			</thead>
 	</table></div></div></div>
 	<amp-lightbox-gallery layout="nodisplay" id="amp-lightbox-gallery" class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-built" hidden="" i-amphtml-layout="nodisplay"><div class="i-amphtml-lbg" bis_skin_checked="1"><div class="i-amphtml-lbg-mask" bis_skin_checked="1"></div></div></amp-lightbox-gallery>
-	<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?>
+<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?>
 	</body>
 	</html>
 	
