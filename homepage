@@ -1,0 +1,251 @@
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title>Kerala State GST Department: Log in to the site</title>
+    <link rel="shortcut icon" href="https://elearnksgst.kerala.gov.in/pluginfile.php/1/core_admin/favicon/64x64/1722586353/gst%20logo%202023.jpg" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Kerala State GST Department: Log in to the site" />
+<link rel="stylesheet" type="text/css" href="https://elearnksgst.kerala.gov.in/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://elearnksgst.kerala.gov.in/theme/styles.php/moove/1722586353_1/all" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/elearnksgst.kerala.gov.in","homeurl":{},"sesskey":"QnwN5nAhFW","sessiontimeout":"7200","sessiontimeoutwarning":"1200","themerev":"1722586353","slasharguments":1,"theme":"moove","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1722586353","admin":"admin","svgicons":true,"usertimezone":"Asia\/Kolkata","courseId":1,"courseContextId":2,"contextid":1,"contextInstanceId":0,"langrev":1722586353,"templaterev":"1722586353"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/elearnksgst.kerala.gov.in\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/elearnksgst.kerala.gov.in\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/elearnksgst.kerala.gov.in\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/elearnksgst.kerala.gov.in\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/elearnksgst.kerala.gov.in\/theme\/yui_combo.php?m\/1722586353\/","combine":true,"comboBase":"https:\/\/elearnksgst.kerala.gov.in\/theme\/yui_combo.php?","ext":false,"root":"m\/1722586353\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-availability_cohort-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_othercompleted-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-qbank_editquestion-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emojipicker-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_h5p-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_html-beautify":{},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/elearnksgst.kerala.gov.in\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/elearnksgst.kerala.gov.in\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1722586353\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/elearnksgst.kerala.gov.in\/lib\/javascript.php\/1722586353\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/elearnksgst.kerala.gov.in\/lib\/javascript.php\/1722586353\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdn.jsdelivr.net\/npm\/mathjax@2.7.9\/MathJax.js?delayStartupUntil=configured"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+
+<script type="text/javascript">
+    document.addEventListener('contextmenu', function(event) {
+        event.preventDefault();
+    });
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+                       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+                       <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body  id="page-login-index" class="format-site  path-login chrome android dir-ltr lang-en yui-skin-sam yui3-skin-sam elearnksgst-kerala-gov-in pagelayout-login course-1 context-1 notloggedin mobiletheme moove-login">
+<div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
+
+<div id="page-wrapper">
+
+    <div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
+</div><script src="https://elearnksgst.kerala.gov.in/lib/javascript.php/1722586353/lib/polyfills/polyfill.js"></script>
+<script src="https://elearnksgst.kerala.gov.in/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js"></script><script src="https://elearnksgst.kerala.gov.in/lib/javascript.php/1722586353/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+
+    <div id="page" class="container-fluid mt-0">
+        <div id="page-content" class="row">
+            <div id="region-main-box" class="col-12">
+                <section id="region-main" class="col-12 h-100" aria-label="Content">
+                    <div class="login-wrapper">
+                        <div class="login-container">
+                            <div role="main"><span id="maincontent"></span><style>
+.img_01 {
+    position: absolute;
+    top: 239px;
+    left: 0px;
+    z-index: 1000;
+    width: 239px;
+}
+.img_012 {
+    position: absolute;
+    top: 214px;
+ 
+    right: 194px;
+    z-index: 1000;
+    width: 180px;
+}
+.img_013 {
+    position: absolute;
+    top: 210px;
+   left: 180px;
+    z-index: 1000;
+    width: 180px;
+}
+.img_02 {
+    position: absolute;
+    top: 200px;
+    right: 0px;
+    z-index: 1000;
+    width: 231px;
+}
+.img_00 {
+    z-index: 2000;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+.img_footer {
+    z-index: 2000;
+    height: 50%;
+    width: 100%;
+    position: fixed;
+    right: 0px;
+}
+.login-margin {
+    margin-top: 600px;
+}
+.col-12 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.foot {
+    z-index: 10000 !important;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.text-design {
+    color: #b9ccb9;
+}
+.text-design1 {
+    line-height: 1.3em;
+}
+.bg-dark1 {
+    background-color: #123960 !important;
+}
+</style>
+<img src="https://elearnksgst.kerala.gov.in/theme/moove/templates/core/loginheader.webp" class="img_00">
+<img src="https://elearnksgst.kerala.gov.in/theme/moove/templates/core/headerleft.png" class="img_01 d-none d-sm-block">
+<img src="https://elearnksgst.kerala.gov.in/theme/moove/templates/core/headerright.png" class="img_02 d-none d-sm-block">
+<img src="https://elearnksgst.kerala.gov.in/theme/moove/templates/core/CR.png" class="img_012 d-none d-sm-block">
+<img src="https://elearnksgst.kerala.gov.in/theme/moove/templates/core/FM.png" class="img_013 d-none d-sm-block">
+<br><br><br><br><br>
+
+<div class="loginform row  login-margin">
+    <div class="col">
+        <br>
+            <!--<div id="loginlogo" class="login-logo">
+                <img id="logoimage" src="//elearnksgst.kerala.gov.in/pluginfile.php/1/theme_moove/logo/1722586353/gst_logo_n.jpg" class="img-fluid" alt="Kerala State GST Department"/>
+                <h1 class="login-heading sr-only">Log in to Kerala State GST Department</h1>
+            </div>-->
+        <form class="login-form" action="https://elearnksgst.kerala.gov.in/login/index.php" method="post" id="login">
+            <!--<h6 class="text-center">SIGNIN</h6><br>-->
+            <input type="hidden" name="logintoken" value="02W4q97EWB0Wa7khN8cevj3AcsuyzW6U">
+            <div class="login-form-username form-group">
+                <label for="username" class="sr-only">
+                        Username or email
+                </label>
+                <input type="text" name="username" id="username" class="form-control form-control-lg" value="" placeholder="Username or email" autocomplete="username">
+            </div>
+            <div class="login-form-password form-group">
+                <label for="password" class="sr-only">Password</label>
+                <input type="password" name="password" id="password" value="" class="form-control form-control-lg" placeholder="Password" autocomplete="current-password">
+            </div>
+            <div class="login-form-submit form-group">
+                <button class="btn btn-primary btn-block btn-lg" type="submit" id="loginbtn">Log in</button>
+            </div>
+            <div class="login-form-forgotpassword form-group text-center">
+                <a href="https://elearnksgst.kerala.gov.in/login/forgot_password.php">Lost password?</a>
+            </div>
+        </form>
+    </div>
+
+</div>
+<br>
+
+<footer class="w-100 flex-shrink-0 bg-dark1 mt-2 foot">
+    <div class="container pb-2 pt-3">
+        <p class="text-center text-design">Copyrights@ Kerala State GST Department. Designed and developed by C-DIT.<br>Contact us +91 4712991220 </p>
+    </div>
+</footer></div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="d-none">
+    <div class="tool_dataprivacy"><a href="https://elearnksgst.kerala.gov.in/admin/tool/dataprivacy/summary.php">Data retention summary</a></div><div id="theme_switch_link"><a rel="nofollow" href="https://elearnksgst.kerala.gov.in/theme/switchdevice.php?url=https%3A%2F%2Felearnksgst.kerala.gov.in%2Flogin%2Findex.php&amp;device=default&amp;sesskey=QnwN5nAhFW">Switch to the standard theme</a></div>
+    <script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://elearnksgst.kerala.gov.in/lib/requirejs.php/1722586353/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://elearnksgst.kerala.gov.in/lib/javascript.php/1722586353/lib/jquery/jquery-3.6.1.min',
+        jqueryui: 'https://elearnksgst.kerala.gov.in/lib/javascript.php/1722586353/lib/jquery/ui-1.13.2/jquery-ui.min',
+        jqueryprivate: 'https://elearnksgst.kerala.gov.in/lib/javascript.php/1722586353/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://elearnksgst.kerala.gov.in/lib/javascript.php/1722586353/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('en');
+});;
+
+    M.util.js_pending('theme_boost/loader');
+    require(['theme_boost/loader'], function() {
+      M.util.js_complete('theme_boost/loader');
+    });
+;
+
+;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(1, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"warn"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});;
+M.util.js_pending('core/utility'); require(['core/utility'], function(amd) {M.util.js_complete('core/utility');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","cancel":"Cancel","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error","file":"File","url":"URL","collapseall":"Collapse all","expandall":"Expand all"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} links to this file","select":"Select"},"admin":{"confirmdeletecomments":"You are about to delete comments, are you sure?","confirmation":"Confirmation"},"debug":{"debuginfo":"Debug info","line":"Line","stacktrace":"Stack trace"},"langconfig":{"labelsep":": "}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"MathJax.Hub.Config({\r\n    config: [\"Accessible.js\", \"Safe.js\"],\r\n    errorSettings: { message: [\"!\"] },\r\n    skipStartupTypeset: true,\r\n    messageStyle: \"none\"\r\n});\r\n","lang":"en"});
+});
+M.util.help_popups.setup(Y);
+ M.util.js_pending('random66d57e9dec2f12'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random66d57e9dec2f12'); });
+})();
+//]]>
+</script>
+
+</div>
+</body>
+</html>
