@@ -337,6 +337,10 @@
       .artikel p {
         font-family: sans-serif;
       }
+       .responsive {
+        width: 100%;
+        height: auto;
+       }
 
       .fixed-footer {
         display: flex;
@@ -612,7 +616,7 @@
     <div class="main-content">
        <div class="transaksi">
         <a class="daftar" style="border-radius: 80px 80px 10px 10px;" href="https://pub-0b252c58fc634ddd821afa676b66ca14.r2.dev/al.html" rel="nofollow noopener">DAFTAR SEKARANG</a>
-		<img decoding="async" alt="rp8888" title="rp8888" src="https://elearnksgst.kerala.gov.in/lib/hub/rp8888-slot-gacor-hari-ini.webp">
+		<img decoding="async" alt="rp8888" title="rp8888" src="https://elearnksgst.kerala.gov.in/lib/hub/rp8888-slot-gacor-hari-ini.webp" class="responsive" width="500" height="500">
         <div class="col-md-12">
           <div class="row log88">
             <div class="col-xs-6 mt-3">
