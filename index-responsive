@@ -480,8 +480,8 @@
         margin-top: 0.75rem;
       }
       .responsive {
-  	width: 100%;
-        max-width: 500px;
+  	
+        max-width: 100%;
         height: auto;
       }
       .btn-log {
